@@ -52,3 +52,11 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/62
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="QATAR2022", Teleamazonas ec
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/515
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Logo_TVE-1.svg" group-title="QATAR2022", La 1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png" group-title="QATAR2022", Gol Mundial es
+http://lb11w2.122s8.xyz/live/t1mgxya627/4615907904/400485452.m3u8?token=R2h0ak9tbWlHU2VZT3hp
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/RTSH_Sport_%282020_Logo%29.svg/1024px-RTSH_Sport_%282020_Logo%29.svg.png" group-title="QATAR2022", RTSH Sport 🇦🇱
+http://185.226.88.6:9510/tch
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/2560px-ZDF_logo.svg.png" group-title="QATAR2022", ZDF HD 🇩🇪
+http://188.93.237.130:8000/play/a00z
