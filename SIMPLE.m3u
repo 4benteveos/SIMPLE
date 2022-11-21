@@ -1,121 +1,35 @@
-#EXTM3U list-name="Canales Latinos ðŸ˜" list-image="https://i.ibb.co/y5WvHvw/Tvlogo.png"
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" tvg-group="SIMPLE", VTV PLUS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/vtvplus.json
-https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc_2A/VTV_Plus_HD.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XssXpkW/dtvuy.png" tvg-group="SIMPLE", DIRECTV SPORTS UY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvuy.json
-https://dtvott-abc.akamaized.net/dash_live_1062/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVPyqST/directv-sports-2.jpg" tvg-group="SIMPLE", DIRECTV SPORTS 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtv2.json
-https://dtvott-abc.akamaized.net/dash_live_1063/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9rMZ9xg/Dtvplus.png" tvg-group="SIMPLE", DIRECTV SPORTS PLUS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvplus.json
-https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PQHbG7z/Dtvfith.png" tvg-group="SIMPLE", DIRECTV SPORTS FIGHT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvfigth.json
-https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png" tvg-group="SIMPLE", TV CIUDAD
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/59.ts
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Canal_5_Uruguay_2021.png/revision/latest/scale-to-width-down/100?cb=20210725005410&path-prefix=es" tvg-group="SIMPLE", TNU
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/tnu.json
-https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_2A/TV_Nacional_Uy.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" tvg-group="SIMPLE", CANAL 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/canal4uy.json
-https://cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc_2A/Canal4_URU.mpd
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/la-tele-telemundo-canal-12-uruguay-logo-CFCB6A5FEB-seeklogo.com.png" tvg-group="SIMPLE", TELEDOCE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/canal12uy.json
-https://cdn.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc_2A/Canal12URU.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QK6CbsM/canal10.png" tvg-group="SIMPLE", CANAL 10
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/canal10uy.json
-https://cdn.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc_2A/Canal10_URU.mpd
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/UCLLatam.png/revision/latest/scale-to-width-down/250?cb=20210308024753&path-prefix=es" tvg-group="SIMPLE", UCL
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/VTV_Logo_2021.png/revision/latest/scale-to-width-down/275?cb=20210429025515&path-prefix=es" tvg-group="SIMPLE", VTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/vtv.json
-https://cdn.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qnbPsVR/477.png" tvg-group="SIMPLE", ENCUENTRO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/encuentro.json
-https://dtvott-abc.akamaized.net/dash_live_1096/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7YQtS3q/hbomundi.png" tvg-group="SIMPLE", HBO MUNDI
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/hbomundi.json
-http://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_2A/HBO_Mundi.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" tvg-group="SIMPLE", HBO XTREME
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/hboxtreme.json
-http://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6wLgtTc/hbopop.png" tvg-group="SIMPLE", HBO POP
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/hbopop.json
-http://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_2A/HBO_POP.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dz3NcB1/ucinema.png" tvg-group="SIMPLE", UNIVERSAL CINEMA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/universalcine.json
-https://dtvott-abc.akamaized.net/dash_live_1253/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C79SYb6/ucomedy.png" tvg-group="SIMPLE", UNIVERSAL COMEDY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/universalcomedy.json
-https://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vhyghNC/unpre.png" tvg-group="SIMPLE", UNIVERSAL PREMIERE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/universalpremier.json
-https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/27X3Yt6/ucrime.png" tvg-group="SIMPLE", UNIVERSAL CRIME
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/universalcrime.json
-https://dtvott-abc.akamaized.net/dash_live_1254/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/47G4F78/ureal.png" tvg-group="SIMPLE", UNIVERSAL REALITY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/universalreality.json
-https://dtvott-abc.akamaized.net/dash_live_1255/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://radio.auf.tv/assets/auf_tv_celeste.png" group-title="SIMPLE", AUF TV
+EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="URUGUAY", Canal 4
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/169382
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Canal_10_OFICIAL_LOGO.png/revision/latest/scale-to-width-down/200?cb=20220128212314&path-prefix=es" group-title="URUGUAY",Saeta
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8660
+#EXTINF:-1 tvg-logo="https://radio.auf.tv/assets/auf_tv_celeste.png" group-title="URUGUAY", AUF TV
 https://d3kesjjwh2cgxl.cloudfront.net/out/v1/2370f106ad21496cbf41edf4aa88c2e4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo-copa-auf-uruguay-color-800.png/120px-Logo-copa-auf-uruguay-color-800.png" group-title="SIMPLE", AUF TV Copa Uruguay
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo-copa-auf-uruguay-color-800.png/120px-Logo-copa-auf-uruguay-color-800.png" group-title="URUGUAY", AUF TV Copa Uruguay
 https://d3b8prdkulbvx7.cloudfront.net/out/v1/d2486b9151a249358f61acc5927d59ee/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/250?cb=20210624152344&path-prefix=es" group-title="SIMPLE", (LA) DW ESPAÑOL
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="DEPORTES", DSports AR
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/67721
+#EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="DEPORTES", DSports  CL
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/290379
+#EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/612.png" group-title="DEPORTES", DSports  2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/31645
+#EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/613.png" group-title="DEPORTES", DSports +
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/65750
+#EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="SEÑALES ALTERNATIVAS", DSports CL SEÑALES ALTERNATIVAS
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3281
+#EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="SEÑALES ALTERNATIVAS", DSports  PE SEÑALES ALTERNATIVAS
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3219
+#EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/612.png" group-title="SEÑALES ALTERNATIVAS", DSports 2 SEÑALES ALTERNATIVAS
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/1048
+#EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/613.png" group-title="SEÑALES ALTERNATIVAS", DSports + SEÑALES ALTERNATIVAS
+http://line.powerdino.com/4375a1dd43/649f75a876/628275
+#EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/613.png" group-title="SEÑALES ALTERNATIVAS", DSports + SEÑALES ALTERNATIVAS
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/1046
+#EXTINF:-1 tvg-logo="https://globalsquads.com/custom/uploads/images/72027_tyc.png" group-title="QATAR2022", TyC Sports SD Q22
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/662.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="SIMPLE", (LA) TELESUR
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="SIMPLE", (CO) Señal Colombia
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="SIMPLE", (AR) IP
-https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest/scale-to-width-down/250?cb=20180301233804" group-title="QATAR2022", DirecTV Sports (sonido desfasado) 
+https://bit.ly/3S65do3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="QATAR2022", TUDN MX Q22
+https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist.m3u8?fbclid=IwAR0pvAH0kaQPGOAcT0MtLLOE2Y1YqIglapxrpOEGe5jfw__f3zp9PJNWwkg
