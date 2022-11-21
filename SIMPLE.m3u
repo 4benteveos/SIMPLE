@@ -11,21 +11,19 @@ https://d3b8prdkulbvx7.cloudfront.net/out/v1/d2486b9151a249358f61acc5927d59ee/in
 http://45.232.211.196:1080/play/a04d
 
 #EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports ar
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/67721
+
 #EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports co
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/290379
+
 #EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/612.png" group-title="QATAR2022", DSports  2
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/31645
+
 #EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/613.png" group-title="QATAR2022", DSports +
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/65750
-#EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports CL SEÑALES ALTERNATIVAS
+
+#EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports co SEÑALES ALTERNATIVAS
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3281
-#EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports  PE SEÑALES ALTERNATIVAS
+#EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports  pe SEÑALES ALTERNATIVAS
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3219
 #EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/612.png" group-title="QATAR2022", DSports 2 SEÑALES ALTERNATIVAS
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/1048
-#EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/613.png" group-title="QATAR2022", DSports + SEÑALES ALTERNATIVAS
-http://line.powerdino.com/4375a1dd43/649f75a876/628275
 #EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/613.png" group-title="QATAR2022", DSports + SEÑALES ALTERNATIVAS
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/1046
 #EXTINF:-1 tvg-logo="https://globalsquads.com/custom/uploads/images/72027_tyc.png" group-title="QATAR2022", TyC Sports  Q22
