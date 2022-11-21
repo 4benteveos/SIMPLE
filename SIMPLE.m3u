@@ -7,12 +7,12 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8660
 https://d3kesjjwh2cgxl.cloudfront.net/out/v1/2370f106ad21496cbf41edf4aa88c2e4/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo-copa-auf-uruguay-color-800.png/120px-Logo-copa-auf-uruguay-color-800.png" group-title="QATAR2022", AUF TV Copa Uruguay
 https://d3b8prdkulbvx7.cloudfront.net/out/v1/d2486b9151a249358f61acc5927d59ee/index.m3u8
-#EXTINF:-1 tvg-logo="https://radio.auf.tv/assets/auf_tv_celeste.png" group-title="QATAR2022", Chilevision Q22
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8966
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chilevision-2018-present-logo-8593B191BA-seeklogo.com.png" group-title="QATAR2022", Chilevision Q22
+http://45.232.211.196:1080/play/a04d
 
-#EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports AR
+#EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports ar
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/67721
-#EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports  CL
+#EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports co
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/290379
 #EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/612.png" group-title="QATAR2022", DSports  2
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/31645
