@@ -24,10 +24,10 @@ http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports 
 
-#EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports Opc VIPER
-
-#EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/612.png" group-title="QATAR2022", DSports Opc. 3
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/1048
+#EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports -en mantenimiento- 
+http://200.52.154.125:8000/play/a06p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/612.png" group-title="QATAR2022", DSports 2
+http://200.52.154.125:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/613.png" group-title="QATAR2022", DSports + 
 
 #EXTINF:-1 tvg-logo="https://globalsquads.com/custom/uploads/images/72027_tyc.png" group-title="QATAR2022", TyC Sports  Q22
@@ -46,6 +46,9 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="QATAR2022", ADSPORTS 1 ara
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/1200px-2016_beIN_Sports_logo.svg.png" group-title="QATAR2022", Bein Sport 1 FR 🇫🇷
+http://w4.12all.tv:4000/play/bein1fr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs/1cf43e59887377.5a32b29636f58.png" group-title="QATAR2022", SPORT TV 1 🇵🇹
 http://185.236.229.13:4000/play/a040
