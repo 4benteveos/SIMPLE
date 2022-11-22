@@ -12,7 +12,7 @@ https://d3kesjjwh2cgxl.cloudfront.net/out/v1/2370f106ad21496cbf41edf4aa88c2e4/in
 https://d3b8prdkulbvx7.cloudfront.net/out/v1/d2486b9151a249358f61acc5927d59ee/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chilevision-2018-present-logo-8593B191BA-seeklogo.com.png" group-title="QATAR2022", Chilevision Q22
 http://45.232.211.196:1080/play/a04d
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/world-cup-2022-logo-1.png" group-title="QATAR2022", ARGENTINA-ARABIA SAUDITA
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/world-cup-2022-logo-1.png" group-title="QATAR2022", Dinamarca-Tunez
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports ar
@@ -32,11 +32,11 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/1048
 #EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/613.png" group-title="QATAR2022", DSports + SEÑALES ALTERNATIVAS
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/1046
 #EXTINF:-1 tvg-logo="https://globalsquads.com/custom/uploads/images/72027_tyc.png" group-title="QATAR2022", TyC Sports  Q22
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/662.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest/scale-to-width-down/250?cb=20180301233804" group-title="QATAR2022", DirecTV Sports (sonido desfasado) 
 https://bit.ly/3S65do3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="QATAR2022", TUDN MX Q22
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="QATAR2022", TUDN MX |Dinamarca-Tunez
 https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist.m3u8?fbclid=IwAR0pvAH0kaQPGOAcT0MtLLOE2Y1YqIglapxrpOEGe5jfw__f3zp9PJNWwkg
 
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/DUBAI_SPORTS.png" group-title="QATAR2022",Dubai Sports 1
