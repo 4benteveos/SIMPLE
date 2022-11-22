@@ -58,11 +58,10 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/515
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_DYPLN06yzrk/TRYgji4BJfI/AAAAAAAAKrc/1vMGBQe8mHk/s1600/%25281%2529_la-1.png" group-title="QATAR2022", La 1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png" group-title="QATAR2022", Gol Mundial es
-http://lb11w2.122s8.xyz/live/t1mgxya627/4615907904/400485452.m3u8?token=R2h0ak9tbWlHU2VZT3hp
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/RTSH_Sport_%282020_Logo%29.svg/1024px-RTSH_Sport_%282020_Logo%29.svg.png" group-title="QATAR2022", RTSH Sport 🇦🇱
 http://185.226.88.6:9510/tch
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/2560px-ZDF_logo.svg.png" group-title="QATAR2022", ZDF HD 🇩🇪
-http://188.93.237.130:8000/play/a00z
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png" group-title="QATAR2022", Tigo Sports py
 http://190.61.102.67:8000/play/a05x
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png" group-title="QATAR2022", Tigo Sports Opc. 2 py
