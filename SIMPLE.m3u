@@ -54,6 +54,8 @@ http://185.236.229.13:4000/play/a02r
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/62
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="QATAR2022", Teleamazonas ec
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/515
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="QATAR2022", TELEMUNDO MX
+https://v-ny.mybtv.net/live/659.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_DYPLN06yzrk/TRYgji4BJfI/AAAAAAAAKrc/1vMGBQe8mHk/s1600/%25281%2529_la-1.png" group-title="QATAR2022", La 1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
