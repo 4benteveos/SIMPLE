@@ -14,11 +14,11 @@ https://d3b8prdkulbvx7.cloudfront.net/out/v1/d2486b9151a249358f61acc5927d59ee/in
 http://45.232.211.196:1080/play/a04d
 
 #EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports ar
-
+https://3.ultimate2019.com/stream/hls/259
 #EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports co
 http://bgapp.live/play/tvhd-119.php?id=20&token=blackghost&file=.m3u8
 #EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/612.png" group-title="QATAR2022", DSports  2
-
+https://3.ultimate2019.com/stream/hls/667
 #EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/613.png" group-title="QATAR2022", DSports +
 
 #EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports co SEÑALES ALTERNATIVAS
@@ -63,4 +63,6 @@ http://185.226.88.6:9510/tch
 http://188.93.237.130:8000/play/a00z
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png" group-title="QATAR2022", Tigo Sports py
 http://190.61.102.67:8000/play/a05x
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png" group-title="QATAR2022", Tigo Sports Opc. 2 py
+
 
