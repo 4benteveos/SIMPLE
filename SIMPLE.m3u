@@ -3,9 +3,10 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="QATAR2022", Canal 4
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Canal_10_OFICIAL_LOGO.png/revision/latest/scale-to-width-down/200?cb=20220128212314&path-prefix=es" group-title="QATAR2022", Saeta
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/la-tele-telemundo-canal-12-uruguay-logo-CFCB6A5FEB-seeklogo.com.png" group-title="QATAR2022", LA TELE
+http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/la-tele-telemundo-canal-12-uruguay-logo-CFCB6A5FEB-seeklogo.com.png" group-title="URUGUAY", LA TELE
-http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/296875
+
 #EXTINF:-1 tvg-logo="https://radio.auf.tv/assets/auf_tv_celeste.png" group-title="QATAR2022", AUF TV
 https://d3kesjjwh2cgxl.cloudfront.net/out/v1/2370f106ad21496cbf41edf4aa88c2e4/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo-copa-auf-uruguay-color-800.png/120px-Logo-copa-auf-uruguay-color-800.png" group-title="QATAR2022", AUF TV Copa Uruguay
@@ -21,21 +22,25 @@ http://138.117.4.70:8075/channel10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Logotipo_de_TV_P%C3%BAblica_Argentina_%282014%29.svg" group-title="QATAR2022", TV Pública ar
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports 
+#EXTINF:-1 tvg-logo="https://9goal.tv/oze/static/img/logo.png" group-title="QATAR2022", 9Goal TV En
+https://lisa.xonthebeach.net/live/itvuk_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://9goal.tv/oze/static/img/logo.png" group-title="QATAR2022", 9Goal TV Es
+https://lisa.xonthebeach.net/live/telemundo/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports -en mantenimiento- 
-http://200.52.154.125:8000/play/a06p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports  
+
 #EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/612.png" group-title="QATAR2022", DSports 2
-http://200.52.154.125:8000/play/a06o/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/613.png" group-title="QATAR2022", DSports + 
 
-#EXTINF:-1 tvg-logo="https://globalsquads.com/custom/uploads/images/72027_tyc.png" group-title="QATAR2022", TyC Sports  Q22
+#EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/613.png" group-title="QATAR2022", DSports + 
+http://200.52.154.125:8000/play/a06p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/FOX_ESPA%C3%91A_LOGO.png" group-title="QATAR2022", FOX Mundial US
+http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest/scale-to-width-down/250?cb=20180301233804" group-title="QATAR2022", DirecTV Sports (sonido desfasado) 
-https://bit.ly/3S65do3
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="QATAR2022", TUDN MX
-https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist.m3u8?fbclid=IwAR0pvAH0kaQPGOAcT0MtLLOE2Y1YqIglapxrpOEGe5jfw__f3zp9PJNWwkg
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
 
 
 
