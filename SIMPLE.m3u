@@ -24,7 +24,8 @@ http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://9goal.tv/oze/static/img/logo.png" group-title="QATAR2022", Brasil-Serbia
 https://lisa.xonthebeach.net/live/telemundo/index.m3u8
-#EXTINF:-1 tvg-logo="https://9goal.tv/oze/static/img/logo.png" group-title="QATAR2022", 9Goal TV 
+#EXTINF:-1 tvg-logo="https://9goal.tv/oze/static/img/logo.png" group-title="QATAR2022", prueba
+https://v3.playerlatino.live/stream/m3u8/708
 
 
 #EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports  
