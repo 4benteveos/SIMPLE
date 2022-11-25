@@ -6,8 +6,11 @@
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/la-tele-telemundo-canal-12-uruguay-logo-CFCB6A5FEB-seeklogo.com.png" group-title="QATAR2022", LA TELE
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
 
-EVENTOS DEPORTIVOS
+#EXTINF:-1 tvg-logo="https://mundialde.net/wp-content/uploads/2022/04/Campionato_mondiale_di_calcio_2022_logo.svg_.png" group-title="QATAR2022", CATAR2022 2
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://uploads-us-west-2.insided.com/tmobile-us/attachment/e8539b15-f8fb-4ebb-b9cc-7482d9f6fe96_thumb.png" group-title="QATAR2022", VIX+
+http://200.52.154.125:8000/play/a06w/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://radio.auf.tv/assets/auf_tv_celeste.png" group-title="QATAR2022", AUF TV
