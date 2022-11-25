@@ -9,6 +9,9 @@ http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
 #EXTINF:-1 tvg-logo="https://recrealideres.com/temp/wp-content/uploads/2015/01/slider_1.png" group-title="QATAR2022", EVENTOS ARG
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/TVMAX_logo.png/revision/latest/scale-to-width-down/262?cb=20220208160004&path-prefix=es" group-title="QATAR2022", TV MAX 🇦🇷
+https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-logo="https://uploads-us-west-2.insided.com/tmobile-us/attachment/e8539b15-f8fb-4ebb-b9cc-7482d9f6fe96_thumb.png" group-title="QATAR2022", VIX+
 http://200.52.154.125:8000/play/a06w/index.m3u8
 
@@ -20,6 +23,13 @@ http://190.83.119.67:8000/play/a0o9
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/RPC_Televisi%C3%B3n_2021.svg/revision/latest/scale-to-width-down/220?cb=20211128092857" group-title="QATAR2022", Canal 4 Panamá
 http://190.83.119.67:8000/play/a0tx
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="QATAR2022", TELEAMAZONAS 🇪🇨
+http://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="QATAR2022", T SPORTS LIVE 🇧🇩
+http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://radio.auf.tv/assets/auf_tv_celeste.png" group-title="QATAR2022", AUF TV
