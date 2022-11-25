@@ -25,7 +25,7 @@ https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Canal_10_Mar_del_Plata_%28Logo_patrio_-_2022%29.png/revision/latest/scale-to-width-down/250?cb=20220615141145" group-title="QATAR2022", Canal 10 Mar del Plata
 http://138.117.4.70:8075/channel10/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Logotipo_de_TV_P%C3%BAblica_Argentina_%282014%29.svg" group-title="QATAR2022", TV Pública ar
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="QATAR2022", TV Pública ar
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://9goal.tv/oze/static/img/logo.png" group-title="QATAR2022", Catar - Senegal
