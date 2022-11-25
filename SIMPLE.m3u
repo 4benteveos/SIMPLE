@@ -22,10 +22,9 @@ http://138.117.4.70:8075/channel10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Logotipo_de_TV_P%C3%BAblica_Argentina_%282014%29.svg" group-title="QATAR2022", TV Pública ar
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://9goal.tv/oze/static/img/logo.png" group-title="QATAR2022", Brasil-Serbia
+#EXTINF:-1 tvg-logo="https://9goal.tv/oze/static/img/logo.png" group-title="QATAR2022", Catar - Senegal
 https://lisa.xonthebeach.net/live/telemundo/index.m3u8
 #EXTINF:-1 tvg-logo="https://9goal.tv/oze/static/img/logo.png" group-title="QATAR2022", prueba
-https://v3.playerlatino.live/stream/m3u8/708
 
 
 #EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports  
