@@ -6,7 +6,7 @@
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/la-tele-telemundo-canal-12-uruguay-logo-CFCB6A5FEB-seeklogo.com.png" group-title="QATAR2022", LA TELE
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
 
-#EXTINF:-1 tvg-logo="https://mundialde.net/wp-content/uploads/2022/04/Campionato_mondiale_di_calcio_2022_logo.svg_.png" group-title="QATAR2022", CATAR2022 2
+#EXTINF:-1 tvg-logo="https://recrealideres.com/temp/wp-content/uploads/2015/01/slider_1.png" group-title="QATAR2022", EVENTOS ARG
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://uploads-us-west-2.insided.com/tmobile-us/attachment/e8539b15-f8fb-4ebb-b9cc-7482d9f6fe96_thumb.png" group-title="QATAR2022", VIX+
@@ -30,6 +30,7 @@ http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://9goal.tv/oze/static/img/logo.png" group-title="QATAR2022", Catar - Senegal
 https://lisa.xonthebeach.net/live/telemundo/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports -inestable-
 https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
