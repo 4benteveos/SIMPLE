@@ -6,6 +6,9 @@
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/la-tele-telemundo-canal-12-uruguay-logo-CFCB6A5FEB-seeklogo.com.png" group-title="QATAR2022", LA TELE
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
 
+EVENTOS DEPORTIVOS
+https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://radio.auf.tv/assets/auf_tv_celeste.png" group-title="QATAR2022", AUF TV
 https://d3kesjjwh2cgxl.cloudfront.net/out/v1/2370f106ad21496cbf41edf4aa88c2e4/index.m3u8
@@ -27,6 +30,9 @@ https://lisa.xonthebeach.net/live/telemundo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports  
 https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/612.png" group-title="QATAR2022", DSports 2 
+http://200.52.154.125:8000/play/a06o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/613.png" group-title="QATAR2022", DSports + Multicámara
 http://200.52.154.125:8000/play/a06p/index.m3u8
