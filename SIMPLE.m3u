@@ -15,11 +15,14 @@ http://200.52.154.125:8000/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://radio.auf.tv/assets/auf_tv_celeste.png" group-title="QATAR2022", AUF TV
 https://d3kesjjwh2cgxl.cloudfront.net/out/v1/2370f106ad21496cbf41edf4aa88c2e4/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo-copa-auf-uruguay-color-800.png/120px-Logo-copa-auf-uruguay-color-800.png" group-title="QATAR2022", AUF TV Copa Uruguay
 https://d3b8prdkulbvx7.cloudfront.net/out/v1/d2486b9151a249358f61acc5927d59ee/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chilevision-2018-present-logo-8593B191BA-seeklogo.com.png" group-title="QATAR2022", Chilevision Q22
 http://45.232.211.196:1080/play/a04d
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/world-cup-2022-logo-1.png" group-title="QATAR2022", CATAR 2022
+
+#EXTINF:-1 tvg-logo="https://globalsquads.com/custom/uploads/images/72027_tyc.png" group-title="QATAR2022", TYC SPORT 🇦🇷
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Canal_10_Mar_del_Plata_%28Logo_patrio_-_2022%29.png/revision/latest/scale-to-width-down/250?cb=20220615141145" group-title="QATAR2022", Canal 10 Mar del Plata
@@ -41,8 +44,6 @@ http://200.52.154.125:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/613.png" group-title="QATAR2022", DSports + Multicámara
 http://200.52.154.125:8000/play/a06p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/FOX_ESPA%C3%91A_LOGO.png" group-title="QATAR2022", FOX Mundial US
-http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="QATAR2022", TUDN MX
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
