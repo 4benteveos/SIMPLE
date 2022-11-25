@@ -32,8 +32,7 @@ http://138.117.4.70:8075/channel10/playlist.m3u8
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://9goal.tv/oze/static/img/logo.png" group-title="QATAR2022", Catar - Senegal
-https://lisa.xonthebeach.net/live/telemundo/index.m3u8
-
+https://lisa.xonthebeach.net/live/bbconeuk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports -inestable-
 https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
