@@ -72,5 +72,5 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png" group-title="QATAR2022", Tigo Sports py
 http://190.61.102.67:8000/play/a05x
 
-#EXTINF:-1 tvg-logo="https://9goal.tv/oze/static/img/logo.png" group-title="QATAR2022", prueba
-
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/match-tv-russia-logo-8D9B87227D-seeklogo.com.png" group-title="QATAR2022", Mat4! ru
+https://P135@bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
