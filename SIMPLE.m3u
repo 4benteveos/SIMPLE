@@ -48,7 +48,7 @@ https://playing.tunnelcdnsw.net/live/telemundo/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports -inestable-
 https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports SD
+#EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/612.png" group-title="QATAR2022", DSports 2 SD -estable-
 https://59537faa0729a.streamlock.net/canal6mdp/canal6mdp/chunklist_w1042600595.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/612.png" group-title="QATAR2022", DSports 2 
