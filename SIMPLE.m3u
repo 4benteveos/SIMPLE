@@ -13,13 +13,13 @@ https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 http://200.52.154.125:8000/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Repretel_logo.svg/1200px-Repretel_logo.svg.png" group-title="QATAR2022", Repretel CR
-http://190.83.119.67:8000/play/a0s2
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/1200px-TD_M%C3%A1s_Logo.png" group-title="QATAR2022", TD+HD CR
-http://190.83.119.67:8000/play/a0o9
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/RPC_Televisi%C3%B3n_2021.svg/revision/latest/scale-to-width-down/220?cb=20211128092857" group-title="QATAR2022", Canal 4 Panamá
-http://190.83.119.67:8000/play/a0tx
+
 
 #EXTINF:-1 tvg-logo="https://radio.auf.tv/assets/auf_tv_celeste.png" group-title="QATAR2022", AUF TV
 https://d3kesjjwh2cgxl.cloudfront.net/out/v1/2370f106ad21496cbf41edf4aa88c2e4/index.m3u8
@@ -28,10 +28,10 @@ https://d3kesjjwh2cgxl.cloudfront.net/out/v1/2370f106ad21496cbf41edf4aa88c2e4/in
 https://d3b8prdkulbvx7.cloudfront.net/out/v1/d2486b9151a249358f61acc5927d59ee/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chilevision-2018-present-logo-8593B191BA-seeklogo.com.png" group-title="QATAR2022", Chilevision Q22
-http://45.232.211.196:1080/play/a04d
+
 
 #EXTINF:-1 tvg-logo="https://globalsquads.com/custom/uploads/images/72027_tyc.png" group-title="QATAR2022", TYC SPORT 🇦🇷
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+http://190.216.105.66:6020/play/a0e9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Canal_10_Mar_del_Plata_%28Logo_patrio_-_2022%29.png/revision/latest/scale-to-width-down/250?cb=20220615141145" group-title="QATAR2022", Canal 10 Mar del Plata
 http://138.117.4.70:8075/channel10/playlist.m3u8
@@ -43,7 +43,7 @@ respaldo de tv pública
 https://f6z5x8d4.stackpathcdn.com/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://9goal.tv/oze/static/img/logo.png" group-title="QATAR2022", 9GOAL TV
-https://playing.tunnelcdnsw.net/live/telemundo/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports -inestable-
 https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
@@ -62,15 +62,20 @@ http://200.52.154.125:8000/play/a06p/index.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="QATAR2022", TELEMUNDO MX
-https://v-ny.mybtv.net/live/659.m3u8?fbclid=IwAR3SjkrBw-ZeIHtUUwgoJv2-7qStUVFUCOCNvVCzp8RcyerIsXs-Cs2EO7U&mibextid=Zxz2cZ
-REspaldo Telemundo
-https://v-ny.mybtv.net/live/659.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
+
 
 #EXTINF:-1 tvg-logo="--" group-title="QATAR2022", prueba
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/CCTV-HD.png/revision/latest?cb=20220110113416" group-title="QATAR2022", CCTV5 🇨🇳
+https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8?|referer:https://olevod.tv/
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_DYPLN06yzrk/TRYgji4BJfI/AAAAAAAAKrc/1vMGBQe8mHk/s1600/%25281%2529_la-1.png" group-title="QATAR2022", La 1
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/2560px-Logo_SportTV.svg.png" group-title="QATAR2022", SPORT TV HD 🇧🇷 
+http://ssvrv.xyz/live/96790pedr0090/0090pedr96790/179682.ts
+
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv2b.png" group-title="QATAR2022", SPORT TV HD 2 🇧🇷 
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5495
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png" group-title="QATAR2022", Tigo Sports py
 http://190.61.102.67:8000/play/a05x
