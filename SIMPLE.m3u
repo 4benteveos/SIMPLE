@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="QATAR2022", Canal 4
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Canal_10_OFICIAL_LOGO.png/revision/latest/scale-to-width-down/200?cb=20220128212314&path-prefix=es" group-title="QATAR2022", Saeta
@@ -70,7 +70,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1 tvg-logo="--" group-title="QATAR2022", prueba
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/cXVlc3RyZWFtaW5nLmNvbS5zZW90dmJvbGl2aWFfaWNvbl8xNTM2NDU1NzM1XzA0MA/icon.png?w=184&fakeurl=1" group-title="QATAR2022", SEO TV Deportes
+#EXTINF:-1 channel id="DirecTVSportsArgentina.ar" tvg-logo="https://image.winudf.com/v2/image/cXVlc3RyZWFtaW5nLmNvbS5zZW90dmJvbGl2aWFfaWNvbl8xNTM2NDU1NzM1XzA0MA/icon.png?w=184&fakeurl=1" group-title="QATAR2022", SEO TV Deportes
 https://live.seo.tv.bo/live/6SEO.m3u8
 
 
