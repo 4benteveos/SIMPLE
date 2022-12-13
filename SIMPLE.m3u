@@ -45,10 +45,11 @@ http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 respaldo de tv pública
 https://f6z5x8d4.stackpathcdn.com/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://9goal.tv/oze/static/img/logo.png" group-title="QATAR2022", 9GOAL TV
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" group-title="QATAR2022", Bayres TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="QATAR2022", DSports -inestable-
+
 https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/612.png" group-title="QATAR2022", DSports 2 SD -estable-
@@ -68,6 +69,17 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 
 #EXTINF:-1 tvg-logo="--" group-title="QATAR2022", prueba
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/cXVlc3RyZWFtaW5nLmNvbS5zZW90dmJvbGl2aWFfaWNvbl8xNTM2NDU1NzM1XzA0MA/icon.png?w=184&fakeurl=1" group-title="QATAR2022", SEO TV Deportes
+https://live.seo.tv.bo/live/6SEO.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/TVP_logo_%28variant%29.svg/2560px-TVP_logo_%28variant%29.svg.png" group-title="QATAR2022", TVP 4K 🇵🇱
+http://cdnx1.plusx.tv:8880/tvp4kw/mono.m3u8?token=cb776083b1e1b6f9bb2222
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOvjzsnX8ZuRAu3Q6rd6zcTB1blNargpKl1VSaaF-sCK6rhNTisThXPHyCMJWeVaO1QieP6EDTrMzPmH4TDlyLPAwgrmx7lkk-njAt6j1y1BQbYw5WLpi-kchbmbI55I4ShjCCGYpO7iCwd_2ZnKBl81v1bivlj5V_vZuNDh7TW9jlMU0iMQorng19/s16000/Qatar2022.png" group-title="QATAR2022", ,QATAR 🇶🇦
+http://181.176.148.142:8000/play/a009
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/CCTV-HD.png/revision/latest?cb=20220110113416" group-title="QATAR2022", CCTV5 🇨🇳
 https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8?|referer:https://olevod.tv/
