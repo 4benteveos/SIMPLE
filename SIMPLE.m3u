@@ -71,8 +71,10 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="--" group-title="QATAR2022", prueba
 
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://image.winudf.com/v2/image/cXVlc3RyZWFtaW5nLmNvbS5zZW90dmJvbGl2aWFfaWNvbl8xNTM2NDU1NzM1XzA0MA/icon.png?w=184&fakeurl=1" group-title="QATAR2022", SEO TV Deportes
-https://live.seo.tv.bo/live/6SEO.m3u8
+https://live.seo.tv.bo/live/6FHD.m3u8
 
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://image.winudf.com/v2/image/cXVlc3RyZWFtaW5nLmNvbS5zZW90dmJvbGl2aWFfaWNvbl8xNTM2NDU1NzM1XzA0MA/icon.png?w=184&fakeurl=1" group-title="QATAR2022", SEO TV Deportes 2
+https://live.seo.tv.bo/live/5SEO.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/TVP_logo_%28variant%29.svg/2560px-TVP_logo_%28variant%29.svg.png" group-title="QATAR2022", TVP 4K 🇵🇱
