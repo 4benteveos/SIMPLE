@@ -6,6 +6,12 @@
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/la-tele-telemundo-canal-12-uruguay-logo-CFCB6A5FEB-seeklogo.com.png" group-title="QATAR2022", LA TELE
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Canal_10_OFICIAL_LOGO.png/revision/latest/scale-to-width-down/200?cb=20220128212314&path-prefix=es" group-title="QATAR2022", Canal 10
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/39.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="QATAR2022", VTV
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71088.ts
+
 #EXTINF:-1 tvg-logo="https://recrealideres.com/temp/wp-content/uploads/2015/01/slider_1.png" group-title="QATAR2022", EVENTOS ARG
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
@@ -97,5 +103,5 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5495
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png" group-title="QATAR2022", Tigo Sports py
 http://190.61.102.67:8000/play/a05x
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/match-tv-russia-logo-8D9B87227D-seeklogo.com.png" group-title="QATAR2022", Mat4! ru
-https://P135@bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/FIFA_logo_without_slogan.svg/1280px-FIFA_logo_without_slogan.svg.png" group-title="QATAR2022", Mundial 
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71085.ts
